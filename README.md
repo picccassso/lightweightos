@@ -1,5 +1,7 @@
 # ARM64 Operating System
 
+# NO FURTHER UPDATES PLANNED #
+
 A minimal ARM64 operating system for QEMU with an interactive shell and 17 built-in commands.
 
 ## Project Overview
